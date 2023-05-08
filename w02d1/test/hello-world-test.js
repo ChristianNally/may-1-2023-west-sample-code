@@ -1,11 +1,14 @@
-const assert = require('assert');
+//const assert = require('assert');
+const assert = require('chai').assert;
+
 const objectOfFunctions = require('../hello-world');
 
 describe('the salutation tests', () => {
 
   describe('subgroup', () => {
     it('the old days', () => {
-      assert(true, true);
+      // .isTrue(value, [message])
+      assert.isTrue(true, 'must be 2020+');
     });
   });
 
