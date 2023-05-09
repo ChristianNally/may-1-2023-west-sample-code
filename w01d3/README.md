@@ -1,11 +1,11 @@
 # W01D03 - Objects in JS
 
 ### To Do
-- [ ] Review primitive types
-- [ ] Objects!
-- [ ] Passing primitives and objects to functions
-- [ ] Functions inside objects (using `this`)
-- [ ] Object iteration with `for..in`
+- [x] Review primitive types
+- [x] Objects!
+- [x] Passing primitives and objects to functions
+- [x] Object iteration with `for..in`
+- [x] Functions inside objects (using `this`)
 
 ### Primitive Types
 - JavaScript has 7 primitive types:
