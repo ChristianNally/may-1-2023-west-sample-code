@@ -7,7 +7,7 @@ body {
 }
 
 nav {
- /* min-width: 230px; */
+ min-width: 9em;
 }
 
 #main {
@@ -59,7 +59,7 @@ p {
 } */
 
 #main .first {
-  /* font-size: 1rem; */
+  font-size: 0.65rem;
 }
 
 /* .second {
@@ -76,14 +76,14 @@ p {
 
 @media only screen and (max-width: 992px) {
   body {
-    /* background-color: blue; */
+    background-color: blue;
   }
 }
 
 @media only screen and (max-width: 850px) {
   /* these styles will be applied if the screen width is less than 500px */
   #main > aside {
-    /* background-color: green; */
-    /* display: none; */
+    background-color: green;
+    display: none;
   }
 }

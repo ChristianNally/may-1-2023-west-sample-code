@@ -168,6 +168,7 @@ h2 {
 
 h1 {
   font-size: $font-size;
+  color: $header-color;
 }
 ```
 
@@ -180,6 +181,7 @@ h1 {
   color: magenta;
   text-decoration: underline;
 }
+
 .container div {
   border: 1px solid black;
 }
